@@ -1,2 +1,15 @@
-## Série A (étudiant A)
-## Série B (étudiant B)
+Algorithme Calcu_du_ttc
+Constantes
+// pas de constantes
+Variables
+ht , tva , ttc : entier
+Début
+ht <-- 100
+tva <-- 20
+Ecrire ("Le prix hors taxe")
+Lire (hors taxe)
+Ecrire ("Le taux tva")
+Lire (tva)
+ttc <-- ht * (1 + tva/100)
+Affiche ("Le prix ttc est",ttc)
+Fin
