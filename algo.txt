@@ -1,0 +1,10 @@
+Algorithe Calcul_du TTC
+Constantes
+// pas de constantes
+Variables
+hors_taxe , tva , ttc : entier
+Debut
+hors_taxe <- 100
+tva <- 20
+ttc <- hors_taxe * (1 + tva / 100)
+Fin
