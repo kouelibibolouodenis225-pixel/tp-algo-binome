@@ -1,11 +1,12 @@
-Algorithme Celsius_Fahrenheit
+Algorithme Permutation_de_deux_variables
 Constantes
-// pas de constantes
+// pas de consatantes
 Variables
-celsius , fahrenheit : entier
+a , b , temps : entier
 Début
-Ecrire ("Donnez la température")
-Lire (température)
-f <-- c * (9/5 + 32)
-Affiche (f)
+a = 5
+b = 8
+temps <-- a // a = 5
+a = b // a = 8
+b = a // b = 5
 Fin
