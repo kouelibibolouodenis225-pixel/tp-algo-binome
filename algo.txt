@@ -10,3 +10,14 @@ ttc <- hors_taxe * (1 + tva / 100)
 Afficher ("Le prix ttc est : ttc")
 Fin
 
+Exercie2
+Algorithe Calcul Fahrenheit
+Constantes
+// pas de constantes
+Variables
+celcius , fahrenheit : float
+Debut
+celcius <- 100
+fahrenheit <- c × 9/5 + 32
+Afficher (fahrenheit)
+Fin
