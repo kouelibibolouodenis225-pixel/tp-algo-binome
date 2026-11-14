@@ -74,3 +74,77 @@ Afficher ( Deux solutions)
 Afficher (Une solution double)
 Afficher (Aucune solution réelle)
 Fin
+
+Exercie 6
+Constantes
+// pas de constantes
+Variables
+longueur , largeur , aire , périmètre : entier
+Debut
+longueur <- 5
+largeur <- 3
+Ecrire ("Donner l'aire d'un rectangle", aire)
+Afficher (aire)
+Ecrire ("Quel est le périmètre de ce rectangle? ")
+Afficher (périmètre)
+Fin
+
+Exercie7
+Algorithme Signe_d'un nombre
+Constantes
+// pas de constantes
+Variables
+-4 : entier
+Debut
+-4
+Ecrire ("Quel est le signe")
+Afficher (Positive)
+Afficher (négative)
+Afficher (nul)
+Fin
+
+Exercie8
+Algorithme Remise_Commercial
+Constantes
+// pas de constantes
+Variables
+montant , remise , à_payer : entier
+Debut
+montant <- 150 £
+remise <- montant * 10 / 100
+Afficher (Remise)
+à_payer <- montant - remise
+Afficher (à_payer)
+Fin
+
+Exercie9
+Algorithme Calcul_de_l'IMC
+Constantes
+// pas de constantes
+Variables
+poids : entier
+taille : réel
+Debut
+poids <- 70 kg
+taille <- 1,75 m
+imc <- poids / taille²
+Afficher ( Maigreur)
+Afficher (Normal)
+Afficher (Surpoids)
+Afficher (Obésité)
+Fin
+
+Exercie10
+Algorithme Mention_pour_enfant
+Constantes
+// pas de constantes
+Variables
+moyenne : réel
+Debut
+moyenne <- 13,5
+Afficher (Refusé)
+Afficher (Passable)
+Afficher (Assez bien)
+Afficher (Bien)
+Afficher (Très bien)
+Fin
