@@ -56,3 +56,21 @@ Afficher ( x = - b / a )
 Afficher ( Infinité de solutions)
 Afficher (Acune solution)
 Fin
+
+Exercie5
+
+Algorithme Equation_du_second_dégré
+Constantes
+// pas de constantes
+Variables
+a , b , c : entier
+Debut
+a <- 1
+b <- -3
+c <- 2
+ax² + bx + c <- 0 
+Δ <- b² − 4ac
+Afficher ( Deux solutions)
+Afficher (Une solution double)
+Afficher (Aucune solution réelle)
+Fin
