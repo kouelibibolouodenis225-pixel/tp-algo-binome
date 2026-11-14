@@ -23,3 +23,21 @@ celcius <- 100
 fahrenheit <- c × 9 / 5 + 32
 Afficher (fahrenheit)
 Fin
+
+Exercie3
+Exercie3
+Algorithme Permutation
+Constantes
+// pas de constantes
+Variables
+a , b : entier
+Debut
+a <- 5
+b <- 8
+temp <- a
+a <- b
+b <- temp
+Ecrire ("Après permutation : ")
+Ecrire ("a = ", a)
+Ecrire ("b = ", b)
+Fin
