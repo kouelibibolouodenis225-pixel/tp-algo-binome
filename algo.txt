@@ -39,3 +39,20 @@ Ecrire ("Après permutation : ")
 Ecrire ("a = ", a)
 Ecrire ("b = ", b)
 Fin
+
+Exercie4
+
+Algorithme Equation_du_premier_dégré
+Constantes
+// pas de constantes
+Variables
+a , b , x : entier
+Debut
+a <- 2
+b <- 6
+x <- -6 / 2
+ax + b = 0
+Afficher ( x = - b / a )
+Afficher ( Infinité de solutions)
+Afficher (Acune solution)
+Fin
