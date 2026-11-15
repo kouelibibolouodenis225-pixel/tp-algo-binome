@@ -41,3 +41,22 @@ Ecrire ("Après permutation : ")
 Ecrire ("a = ", a)
 Ecrire ("b = ", b)
 Fin
+
+Ecrire4
+Algorithme Equation_du_premier_dégré
+Constantes
+// pas de constantes
+Variables
+a , b , x : entier
+Debut
+a <- 2
+b <- (-6)
+x <- 3
+Si a ≠ 0 alors
+Ecrire x = −b / a
+Sinon si a = 0 et b = 0 alors
+Ecrire ("Infinité de solutions")
+Si a = 0 et b ≠ 0 alors
+Ecrire ("Aucune solution")
+FinSi
+Fin
