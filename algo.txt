@@ -60,3 +60,24 @@ Si a = 0 et b ≠ 0 alors
 Ecrire ("Aucune solution")
 FinSi
 Fin
+
+Exercie5
+
+Algorithme Equation_du_second_dégré
+Constantes
+// pas de constantes
+Variables
+a , b , c : entier
+Debut
+a <- 1
+b <- -3
+c <- 2
+Si Δ > 0 alors
+Ecrire ("Deux solutions")
+SinonSi Δ <- 0 alors
+Ecrire ("Une solution double)
+Sinon
+Ecrire (Aucune solution réelle)
+FinSi
+Fin
+
