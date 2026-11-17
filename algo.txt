@@ -74,7 +74,7 @@ b <- -3
 c <- 2
 Si Δ > 0 alors
 Ecrire ("Deux solutions")
-SinonSi Δ <- 0 alors
+SinonSi Δ = 0 alors
 Ecrire ("Une solution double)
 Sinon
 Ecrire (Aucune solution réel)
