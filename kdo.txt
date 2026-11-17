@@ -1,0 +1,12 @@
+BONUS
+Algorithme Mineur/Majeur
+Variables
+age : entier
+Debut
+Lire (age)
+Si age < 18 alors
+Ecrire ("Vous êtes Mineur)
+Sinon
+Ecrire ("Vous êtes Majeur)
+Finsi
+Fin
